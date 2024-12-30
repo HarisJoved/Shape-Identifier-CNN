@@ -105,21 +105,10 @@ The model was trained on a custom dataset of hand-drawn and computer-generated g
 
 ---
 
-## Contributions
-
-Contributions to this project are welcome! If you have suggestions for improvement, please fork the repository and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Contact
 
 For questions or support, please contact:
 
 - **Name:** Haris Javed
-- **Email:** [your-email@example.com]
+- **Email:** [harisjaved16661@gmail.com]
